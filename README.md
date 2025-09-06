@@ -1,1 +1,1 @@
-"Juste des scripts à la con en C#, pondues pour le projet d’un pote. Peut-être qu’ils vous serviront aussi… ou pas." 
+These scripts were created for an end-of-year project and are of no use to me. If you think they might help you, feel free to use them—no credit needed.
